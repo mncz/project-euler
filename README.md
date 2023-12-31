@@ -14,4 +14,4 @@ Solutions to Project Euler problems – where math meets code, and sometimes the
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute a solution or two, don your mathematical cap, fork the repository, and let the coding adventures begin. 🚀
+Contributions are welcome! If you'd like to contribute a solution or two, don your mathematical cap, fork the repository, and let the coding adventures begin. 🤝
