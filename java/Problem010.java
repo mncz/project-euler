@@ -1,7 +1,7 @@
 // Summation of Primes
 
 public class Problem010 {
-    public static boolean is_prime(int n) {
+    public static boolean isPrime(int n) {
         if (n <= 1)
             return false;
 
@@ -17,7 +17,7 @@ public class Problem010 {
         long sum = 0;
 
         for (int i = 2; i < 2000000; i++) {
-            if (is_prime(i))
+            if (isPrime(i))
                 sum += i;
         }
 
