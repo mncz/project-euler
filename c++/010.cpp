@@ -21,10 +21,8 @@ int main()
     long sum = 0;
 
     for (int i = 0; i < 2000000; i++)
-    {
         if (isPrime(i))
             sum += i;
-    }
 
     cout << sum;
 }
